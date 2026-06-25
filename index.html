@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Registro Nacional Miura Fans</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial;background:#0d0d0d;color:#fff}
+.hero{
+background:linear-gradient(rgba(0,0,0,.75),rgba(0,0,0,.9)),
+url('https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1600&q=80');
+background-size:cover;
+background-position:center;
+padding:60px 20px;
+text-align:center;
+}
+.hero h1{font-size:44px;color:#d8b15a;margin:10px 0}
+.hero p{max-width:700px;margin:auto;font-size:20px}
+.counter{margin:30px auto;background:#1d1d1d;width:260px;padding:20px;border-radius:15px}
+.counter b{font-size:50px;color:#d8b15a}
+.btn{display:inline-block;background:#b31318;color:#fff;padding:18px 35px;border-radius:10px;
+text-decoration:none;font-weight:bold;font-size:20px}
+section{max-width:900px;margin:auto;padding:40px 20px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:15px}
+.card{background:#1c1c1c;border-radius:10px;padding:15px;text-align:center}
+.card h3{margin:0;color:#d8b15a}
+.card b{font-size:28px}
+form{background:#1b1b1b;padding:25px;border-radius:12px}
+input,select,button{width:100%;padding:14px;margin:10px 0;border:none;border-radius:8px}
+button{background:#b31318;color:white;font-size:18px;font-weight:bold;cursor:pointer}
+#msg{color:#6cff98;font-weight:bold}
+footer{text-align:center;padding:30px;color:#bbb}
+</style>
+</head>
+<body>
+
+<div class="hero">
+<img src="https://i.imgur.com/ZQ6Yv8v.png" style="max-width:420px;width:90%" onerror="this.style.display='none'">
+<h1>REGISTRO NACIONAL MIURA</h1>
+<p>Ajude a preservar a história da Miura. Cadastre gratuitamente o seu veículo e participe do maior registro nacional da marca.</p>
+
+<div class="counter">
+<div>MIURAS CADASTRADOS</div>
+<b id="total">0</b>
+</div>
+
+<a class="btn" href="#cadastro">CADASTRAR MEU MIURA</a>
+</div>
+
+<section>
+<h2 style="text-align:center;color:#d8b15a">Estatísticas</h2>
+
+<div class="cards">
+<div class="card"><h3>Sport</h3><b id="sport">0</b></div>
+<div class="card"><h3>Saga</h3><b id="saga">0</b></div>
+<div class="card"><h3>Saga II</h3><b id="saga2">0</b></div>
+<div class="card"><h3>Targa</h3><b id="targa">0</b></div>
+<div class="card"><h3>Top Sport</h3><b id="topsport">0</b></div>
+<div class="card"><h3>X8</h3><b id="x8">0</b></div>
+<div class="card"><h3>X11</h3><b id="x11">0</b></div>
+<div class="card"><h3>787</h3><b id="m787">0</b></div>
+<div class="card"><h3>BG Truck</h3><b id="bg">0</b></div>
+<div class="card"><h3>Kabrio</h3><b id="kabrio">0</b></div>
+<div class="card"><h3>Spider</h3><b id="spider">0</b></div>
+</div>
+</section>
+
+<section id="cadastro">
+<form onsubmit="salvar();return false;">
+<h2>Cadastre seu Miura</h2>
+<input id="nome" placeholder="Nome">
+<input id="cidade" placeholder="Cidade / Estado">
+<select id="modelo">
+<option>Miura Sport</option><option>Miura Saga</option><option>Miura Saga II</option>
+<option>Miura Targa</option><option>Miura Top Sport</option><option>Miura X8</option>
+<option>Miura X11</option><option>Miura 787</option><option>Miura BG Truck</option>
+<option>Miura Kabrio</option><option>Miura Spider</option>
+</select>
+<input id="ano" placeholder="Ano">
+<input id="chassi" placeholder="Chassi">
+<button>Cadastrar</button>
+<div id="msg"></div>
+</form>
+</section>
+
+<footer>Projeto comunitário Miura Fans • Cadastro Nacional</footer>
+
+<script>
+const URL="https://script.google.com/macros/s/AKfycbyoqz1XN1ERIf2VSdPj8lLFWouhPB2o1bXx4WtSHgAmQQ2retVjPlc9ECVx6d2v_mRS/exec";
+function carregar(){
+fetch(URL).then(r=>r.json()).then(d=>{
+for(let k in d){let e=document.getElementById(k);if(e)e.innerHTML=d[k];}
+});
+}
+function salvar(){
+fetch(URL,{method:'POST',body:JSON.stringify({
+nome:nome.value,cidade:cidade.value,modelo:modelo.value,ano:ano.value,chassi:chassi.value
+})})
+.then(r=>r.text())
+.then(()=>{msg.innerHTML="✔ Cadastro realizado com sucesso!";document.forms[0].reset();carregar();});
+}
+carregar();
+</script>
+
+</body>
+</html>
