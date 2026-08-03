@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "codigo": "001",
+    "nome": "Lanterna Traseira",
+    "aplicacao": "Miura X8 TOPSPORT X11",
+    "descricao": "Peça original",
+    "imagem": "lanterna001.webp"
+  }
+]
