@@ -12,5 +12,12 @@
     "aplicacao": "Miura X8 TOPSPORT X11",
     "descricao": "PARA SER INSTALADA ENTRE AS LANTERNAS TRASEIRAS",
     "imagem": "placa001.webp"
-  }
+  },
+  {
+  "codigo": "003",
+  "nome": "PLACA TRASEIRA MIURA SAGA 2",
+  "aplicacao": "MIURA SAGA 2",
+  "descricao": "PLACA TRASEIRA MIURA SAGA 2 , PARA SER INSTALADA ENTRE AS LANTERNAS",
+  "imagem": "placa002.webp"
+},
 ]
