@@ -19,5 +19,12 @@
   "aplicacao": "MIURA SAGA 2",
   "descricao": "PLACA TRASEIRA MIURA SAGA 2 , PARA SER INSTALADA ENTRE AS LANTERNAS",
   "imagem": "placa002.webp"
+},
+  {
+  "codigo": "004",
+  "nome": "LANTERNA TRASEIRA MIURA SAGA 787",
+  "aplicacao": "MIURA SAGA  E 787",
+  "descricao": "LANTERNA TRASEIRA DO SANTANA 1985 - 1990",
+  "imagem": "lanterna002.webp"
 }
 ]
