@@ -5,5 +5,12 @@
     "aplicacao": "Miura X8 TOPSPORT X11",
     "descricao": "Peça original",
     "imagem": "lanterna001.webp"
-  }
+  },
+  {
+  "codigo": "002",
+  "nome": "Placa refletiva traseira",
+  "aplicacao": "Miuras X8 TOPSPORT X11",
+  "descricao": "PARA SER INSTALADA ENTRE AS LANTERNAS TRASEIRAS",
+  "imagem": "placa001.webp"
+},
 ]
