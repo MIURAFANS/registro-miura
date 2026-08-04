@@ -103,5 +103,12 @@
   "aplicacao": "TODOS MIURAS",
   "descricao": "FAROL DE MILHA ROSSI MEDIDAS 15 X 7,5 cm",
   "imagem": "farol002.webp"
+},
+  {
+  "codigo": "016",
+  "nome": "RETROVISOR",
+  "aplicacao": "MIURAS 80 81",
+  "descricao": "Retrovisor Corcel 2 Del Rey Metagal 78 / 88 COM CONTROLE INTERNO",
+  "imagem": "retrovisor002.webp"
 }
 ]
