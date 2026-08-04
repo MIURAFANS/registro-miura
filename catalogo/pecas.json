@@ -26,5 +26,12 @@
   "aplicacao": "MIURA SAGA  E 787",
   "descricao": "LANTERNA TRASEIRA DO SANTANA 1985 - 1990",
   "imagem": "lanterna002.webp"
+},
+  {
+  "codigo": "005",
+  "nome": "LANTERNAS TRASEIRAS",
+  "aplicacao": "MIURAS TARGA SPIDER",
+  "descricao": "LANTERNAS TRASEIRA DO CHEVETTE HATCH 80 A 82 ATENÇÃO ORIGINAL ERAM AMBAR NAS EXTREMIDADES",
+  "imagem": "lanterna003.webp"
 }
 ]
