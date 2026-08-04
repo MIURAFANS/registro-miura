@@ -68,5 +68,19 @@
   "aplicacao": "MIURAS 82 83 TARGA SPIDER SAGA 787 SAGA 2",
   "descricao": "PAINEL INSTRUMENTOS FORD DEL REY 220KM EM ALGUNS MODELOS MAIS RECENTES ERA APLICADO GRAFISMO PROPRIO DA MIURA",
   "imagem": "painel002.webp"
+},
+  {
+  "codigo": "011",
+  "nome": "PAINEL DE INSTRUMENTOS",
+  "aplicacao": "MIURA 77 78",
+  "descricao": "PAINEL DE INSTRUMENTOS VDO EXCLUSIVO MIURA",
+  "imagem": "painel003.webp"
+},
+  {
+  "codigo": "012",
+  "nome": "PAINEL DE INSTRUMENTOS",
+  "aplicacao": "MIURA 79 80 81",
+  "descricao": "PAINEL DE INSTRUMENTOS VDO EXCLUSIVO MIURA",
+  "imagem": "painel004.webp"
 }
 ]
