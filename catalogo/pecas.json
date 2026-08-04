@@ -96,5 +96,12 @@
   "aplicacao": "MIURAS 77 78 79",
   "descricao": "RETROVISOR MAVERICK",
   "imagem": "retrovisor001.webp"
+},
+  {
+  "codigo": "015",
+  "nome": "FAROL DE MILHA",
+  "aplicacao": "TODOS MIURAS",
+  "descricao": "FAROL DE MILHA ROSSI MEDIDAS 15 X 7,5 cm",
+  "imagem": "farol002.webp"
 }
 ]
