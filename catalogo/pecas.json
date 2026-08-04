@@ -110,5 +110,12 @@
   "aplicacao": "MIURAS 80 81",
   "descricao": "Retrovisor Corcel 2 Del Rey Metagal 78 / 88 COM CONTROLE INTERNO",
   "imagem": "retrovisor002.webp"
+},
+  {
+  "codigo": "017",
+  "nome": "RETROVISOR",
+  "aplicacao": "MIURA TARGA",
+  "descricao": "Retrovisor Chevette 83 84 85 86 Original Metagal",
+  "imagem": "retrovisor003.webp"
 }
 ]
