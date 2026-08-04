@@ -89,5 +89,12 @@
   "aplicacao": "TODOS MIURAS EXETO KABRIO",
   "descricao": "FAROL CIBIE FIAT 147 DE 76 A 83 ORIGINAL COM CALVALINHO NO LOGO CENTRAL",
   "imagem": "farol001.webp"
+},
+  {
+  "codigo": "014",
+  "nome": "RETROVISOR",
+  "aplicacao": "MIURAS 77 78 79",
+  "descricao": "RETROVISOR MAVERICK",
+  "imagem": "retrovisor001.webp"
 }
 ]
