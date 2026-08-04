@@ -54,5 +54,12 @@
   "aplicacao": "MIURA KABRIO",
   "descricao": "LANTERNA TRASEIRA GOL BX 80 A 86",
   "imagem": "lanterna006.webp"
+},
+  {
+  "codigo": "009",
+  "nome": "PAINEL INSTRUMENTOS",
+  "aplicacao": "MIURA X8 TOPSPORT X11",
+  "descricao": "PAINEL DE INSTRUMENTOS DO ALFA ROMEO 2300 SOBRE O PAINEL ERA COLOCADO UMA MASCARA DE ALUMINIO COM PADRONAGEM PROPRIA PRODUZIDA PELA MIURA",
+  "imagem": "painel001.webp"
 }
 ]
