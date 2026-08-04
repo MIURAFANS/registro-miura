@@ -33,5 +33,12 @@
   "aplicacao": "MIURAS TARGA SPIDER",
   "descricao": "LANTERNAS TRASEIRA DO CHEVETTE HATCH 80 A 82 ATENÇÃO ORIGINAL ERAM AMBAR NAS EXTREMIDADES",
   "imagem": "lanterna003.webp"
+},
+  {
+  "codigo": "006",
+  "nome": "LANTERNAS DIANTEIRAS",
+  "aplicacao": "MIURA 77 78 79",
+  "descricao": "LANTERNAS DIANTEIRAS CHEVETTE 74 A 82",
+  "imagem": "lanterna004.webp"
 }
 ]
