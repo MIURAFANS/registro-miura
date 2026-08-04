@@ -82,5 +82,12 @@
   "aplicacao": "MIURA 79 80 81",
   "descricao": "PAINEL DE INSTRUMENTOS VDO EXCLUSIVO MIURA",
   "imagem": "painel004.webp"
+},
+  {
+  "codigo": "013",
+  "nome": "FAROL",
+  "aplicacao": "TODOS MIURAS EXETO KABRIO",
+  "descricao": "FAROL CIBIE FIAT 147 DE 76 A 83 ORIGINAL COM CALVALINHO NO LOGO CENTRAL",
+  "imagem": "farol001.webp"
 }
 ]
