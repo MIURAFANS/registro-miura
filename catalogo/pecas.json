@@ -47,5 +47,12 @@
   "aplicacao": "MIURA SAGA 2",
   "descricao": "LANTERNA TRASEIRA OPALA 88 A 92",
   "imagem": "lanterna005.webp"
+},
+  {
+  "codigo": "008",
+  "nome": "LANTERNA TRASEIRA",
+  "aplicacao": "MIURA KABRIO",
+  "descricao": "LANTERNA TRASEIRA GOL BX 80 A 86",
+  "imagem": "lanterna006.webp"
 }
 ]
