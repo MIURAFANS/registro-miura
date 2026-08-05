@@ -180,5 +180,12 @@
   "aplicacao": "TARGA SPIDER",
   "descricao": "Caixa Fusível Corcel Belina Pampa Del Rey",
   "imagem": "fusiveis002.webp"
+},
+  {
+  "codigo": "027",
+  "nome": "TAMPA FUSÍVEIS",
+  "aplicacao": "MIURA SPORT",
+  "descricao": "Caixa Fusível Corcel Belina Pampa Del Rey",
+  "imagem": "fusiveis003.webp"
 }
 ]
