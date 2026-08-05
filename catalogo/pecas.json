@@ -152,5 +152,12 @@
   "aplicacao": "MIURAS SPORT",
   "descricao": "RETROVISOR INTERNO VARIANTE CODIGO 131 857 507.1",
   "imagem": "retrovisor008.webp"
+},
+  {
+  "codigo": "023",
+  "nome": "LUZ TETO",
+  "aplicacao": "TARGA 86 SAGA 787 X8 TOPSPORT X11",
+  "descricao": "Relógio Luz De Teto Ford Escort 1991 - 1995 *",
+  "imagem": "luzteto001.webp"
 }
 ]
