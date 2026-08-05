@@ -131,5 +131,12 @@
   "aplicacao": "SAGA 787 X8 TOPSPORT X11",
   "descricao": "MOTOR ELETRICO 4 FIOS MONZA OPALA GOL TODOS MIURAS COM RETROVISORES FABRICADOS PELA MIURA COM EXCEÇÃO DOS MIURAS SPORT 82 E PRIMEIROS TARGA QUE USAVAM A A MAQUINA COM CONTROLE MANUAL DO CORCEL 2",
   "imagem": "retrovisor005.webp"
+},
+  {
+  "codigo": "020",
+  "nome": "BOTÃO RETROVISOR",
+  "aplicacao": "SAGA 787 X8 TOPSPORT X11",
+  "descricao": "Botão Retrovisor Elétrico Gol Gti Quadrado Original VW",
+  "imagem": "retrovisor006.webp"
 }
 ]
