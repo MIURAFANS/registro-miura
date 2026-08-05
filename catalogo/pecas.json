@@ -117,5 +117,12 @@
   "aplicacao": "MIURA TARGA",
   "descricao": "Retrovisor Chevette 83 84 85 86 Original Metagal",
   "imagem": "retrovisor003.webp"
+},
+  {
+  "codigo": "018",
+  "nome": "RETROVISOR",
+  "aplicacao": "MIURA SPIDER",
+  "descricao": "RETROVISOR PASSAT 83 A 88 COM CONTROLE METAGAL",
+  "imagem": "retrovisor004.webp"
 }
 ]
