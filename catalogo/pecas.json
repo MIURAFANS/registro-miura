@@ -166,5 +166,12 @@
   "aplicacao": "MIURA SPORT TARGA",
   "descricao": "Luz Interna Teto Capo Porta Mala Monza Kadett Opala",
   "imagem": "luzteto002.webp"
+},
+  {
+  "codigo": "025",
+  "nome": "TAMPA FUSÍVEIS",
+  "aplicacao": "SAGA 787 X8 TOPSPORT X11",
+  "descricao": "Tampa Caixa Fusível Escort 1987 A 1992",
+  "imagem": "fusiveis001.webp"
 }
 ]
