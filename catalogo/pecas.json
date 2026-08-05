@@ -187,5 +187,12 @@
   "aplicacao": "MIURA SPORT",
   "descricao": "Caixa Fusível VW BRASILIA",
   "imagem": "fusiveis003.webp"
+},
+  {
+  "codigo": "028",
+  "nome": "COMUTADOR IGNIÇÃO",
+  "aplicacao": "TODOS MIURAS",
+  "descricao": "Cilindro Ignição Partida Ford F100 71 72 73 1974 C/comutador",
+  "imagem": "chave001.webp"
 }
 ]
