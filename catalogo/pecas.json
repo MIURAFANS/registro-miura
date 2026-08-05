@@ -159,5 +159,12 @@
   "aplicacao": "TARGA 86 SAGA 787 X8 TOPSPORT X11",
   "descricao": "Relógio Luz De Teto Ford Escort 1991 - 1995 *",
   "imagem": "luzteto001.webp"
+},
+  {
+  "codigo": "024",
+  "nome": "LUZ TETO",
+  "aplicacao": "MIURA SPORT TARGA",
+  "descricao": "Luz Interna Teto Capo Porta Mala Monza Kadett Opala",
+  "imagem": "luzteto002.webp"
 }
 ]
