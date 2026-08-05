@@ -201,5 +201,12 @@
   "aplicacao": "SAGA 787 X8 TOPSPORT X11 *TARGA *SPIDER",
   "descricao": "SENSOR DE CHAVE SEM ELE O COMPUTADOR NÃO FUNCIONA, PEÇA ORIGINAL MIURA *TARGA E SPIDER SE TIVEREM COMPUTADOR",
   "imagem": "chave002.webp"
+},
+  {
+  "codigo": "030",
+  "nome": "TRAVA DA PORTA EMERGÊNCIA",
+  "aplicacao": "X8 TOPSPORT X11 SAGA 2",
+  "descricao": "Cilindro Porta Traseira Fiorino Baú (147) 82/87. PEÇA DA DIREITA ERA USINADA PELA MIURA , CHAVE ORIGINAL MIURA",
+  "imagem": ""
 }
 ]
