@@ -173,5 +173,12 @@
   "aplicacao": "SAGA 787 X8 TOPSPORT X11",
   "descricao": "Tampa Caixa Fusível Escort 1987 A 1992",
   "imagem": "fusiveis001.webp"
+},
+  {
+  "codigo": "026",
+  "nome": "TAMPA FUSÍVEIS",
+  "aplicacao": "TARGA SPIDER",
+  "descricao": "Caixa Fusível Corcel Belina Pampa Del Rey",
+  "imagem": "fusiveis002.webp"
 }
 ]
