@@ -138,5 +138,12 @@
   "aplicacao": "SAGA 787 X8 TOPSPORT X11",
   "descricao": "Botão Retrovisor Elétrico Gol Gti Quadrado Original VW",
   "imagem": "retrovisor006.webp"
+},
+  {
+  "codigo": "021",
+  "nome": "RETROVISOR INTERNO",
+  "aplicacao": "MIURAS TOPSPORT X11",
+  "descricao": "ESPELHO RETROVISOR INTERNO ANTI-OFUSCAMENTO AUTOMÁTICO MARCA METAGAL/GENTEX (EUA) EQUIPAVA OS GENERAL MOTORS AMERINANOS NOS ANOS 80",
+  "imagem": "retrovisor007.webp"
 }
 ]
