@@ -194,5 +194,12 @@
   "aplicacao": "TODOS MIURAS",
   "descricao": "Cilindro Ignição Partida Ford F100 71 72 73 1974 C/comutador. AS CHAVES ERAM EXCLUSIVAS MIURA",
   "imagem": "chave001.webp"
+},
+  {
+  "codigo": "029",
+  "nome": "SENSOR CHAVE",
+  "aplicacao": "SAGA 787 X8 TOPSPORT X11 *TARGA *SPIDER",
+  "descricao": "SENSOR DE CHAVE SEM ELE O COMPUTADOR NÃO FUNCIONA, PEÇA ORIGINAL MIURA *TARGA E SPIDER SE TIVEREM COMPUTADOR",
+  "imagem": "chave002.webp"
 }
 ]
