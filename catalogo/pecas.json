@@ -271,5 +271,12 @@
   "aplicacao": "MIURAS SPORT",
   "descricao": "Tanque Combustível KOMBI CLIPPER",
   "imagem": "tanque003.webp"
+},
+  {
+  "codigo": "040",
+  "nome": "TAMAPA COMBUSTÍVEL",
+  "aplicacao": "TARGA SPIDER",
+  "descricao": "Tampa Tanque Combustível Gol Quadrado 1980 A 1989",
+  "imagem": "tanque004.webp"
 }
 ]
