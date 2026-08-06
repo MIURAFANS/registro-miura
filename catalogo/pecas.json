@@ -222,5 +222,12 @@
   "aplicacao": "TODOS MIURAS",
   "descricao": "Fechaduras e batentes porta Brasília 1028370161 , ATENÇÃO NA INSTALAÇÃO EXIGE ADAPTAÇÕES PARA TRABALHAR JUNTO COM A FECADURA DO ALFA ROMEO 2300",
   "imagem": "fechadura001.webp"
+},
+  {
+  "codigo": "033",
+  "nome": "FECHADURA PORTA MALAS",
+  "aplicacao": "TARGA SPIDER SAGA 787",
+  "descricao": "Fechadura e miolo chaves Tampa Porta Malas Passat 3 Portas Voyage Parati",
+  "imagem": "fechadura002.webp"
 }
 ]
