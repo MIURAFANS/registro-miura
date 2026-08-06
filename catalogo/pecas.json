@@ -299,5 +299,12 @@
   "aplicacao": "MIURAS 77 78 79",
   "descricao": "Tampa Tanque Belina I Até 72 Cromada",
   "imagem": "tanque007.webp"
+},
+  {
+  "codigo": "044",
+  "nome": "COMANDO AR CONDICIONADO",
+  "aplicacao": "SAGA 787 X8",
+  "descricao": "Comando Ar Condicionado Vw Passat Gts Pointer",
+  "imagem": "ar001.webp"
 }
 ]
