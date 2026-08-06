@@ -285,5 +285,12 @@
   "aplicacao": "SAGA 787 X8 TOPSPORT X11",
   "descricao": "Tampa Combustivel S/chave Vw Variant/ Brasilia Até 1981",
   "imagem": "tanque005.webp"
+},
+  {
+  "codigo": "042",
+  "nome": "TAMAPA COMBUSTÍVEL",
+  "aplicacao": "MIURAS 80 81 82",
+  "descricao": "Tampa Tanque Combustivel Ford Galaxie Landau F 100",
+  "imagem": "tanque006.webp"
 }
 ]
