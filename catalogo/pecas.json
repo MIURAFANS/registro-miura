@@ -229,5 +229,12 @@
   "aplicacao": "TARGA SPIDER SAGA 787",
   "descricao": "Fechadura e miolo chaves Tampa Porta Malas Passat 3 Portas Voyage Parati",
   "imagem": "fechadura002.webp"
+},
+  {
+  "codigo": "034",
+  "nome": "FECHADURA PORTA MALAS",
+  "aplicacao": "MIURAS SPORT X8 TOPSPORT X11",
+  "descricao": "Fechadura porta malas Chevette",
+  "imagem": "fechadura003.webp"
 }
 ]
