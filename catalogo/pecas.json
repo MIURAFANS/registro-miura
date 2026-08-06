@@ -257,5 +257,12 @@
   "aplicacao": "SAGA 787 X8 TOPSPORT X11",
   "descricao": "Tanque Combustível Santana  84 A 94 75 L ATENÇÃO SEMPRE ENTRADA DA BOIA PEQUENA PARA CARBURADO ( OS MIURAS INJETADOS USAVAM TAMBEM ESTE TANQUE)",
   "imagem": "tanque001.webp"
+},
+  {
+  "codigo": "038",
+  "nome": "TANQUE COMBUSTÍVEL",
+  "aplicacao": "TARGA SPIDER",
+  "descricao": "Tanque Combustível FORD RURAL",
+  "imagem": "tanque002.webp"
 }
 ]
