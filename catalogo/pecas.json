@@ -292,5 +292,12 @@
   "aplicacao": "MIURAS 80 81 82",
   "descricao": "Tampa Tanque Combustivel Ford Galaxie Landau F 100",
   "imagem": "tanque006.webp"
+},
+  {
+  "codigo": "043",
+  "nome": "TAMAPA COMBUSTÍVEL",
+  "aplicacao": "MIURAS 77 78 79",
+  "descricao": "Tampa Tanque Belina I Até 72 Cromada",
+  "imagem": "tanque007.webp"
 }
 ]
