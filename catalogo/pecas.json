@@ -250,5 +250,12 @@
   "aplicacao": "MIURAS SPORT",
   "descricao": "Chave De Seta Para Brasília 78 Até 80 102953505106",
   "imagem": "chavesetas002.webp"
+},
+  {
+  "codigo": "037",
+  "nome": "TANQUE COMBUSTÍVEL",
+  "aplicacao": "SAGA 787 X8 TOPSPORT X11",
+  "descricao": "Tanque Combustível Santana  84 A 94 75 L ATENÇÃO SEMPRE ENTRADA DA BOIA PEQUENA PARA CARBURADO ( OS MIURAS INJETADOS USAVAM TAMBEM ESTE TANQUE)",
+  "imagem": "tanque001.webp"
 }
 ]
