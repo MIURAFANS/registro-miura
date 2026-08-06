@@ -215,5 +215,12 @@
   "aplicacao": "MIURAS 79 80 81 82 83 TARGA SPIDER SAGA",
   "descricao": "Maçaneta Externa Alfa Romeo 2300, a lado caixa de fixação normalmente vendido separado, abaixo a direita chaves originais Miura",
   "imagem": "chave004.webp"
+},
+  {
+  "codigo": "032",
+  "nome": "FECHADURA PORTA",
+  "aplicacao": "TODOS MIURAS",
+  "descricao": "Fechaduras e batentes porta Brasília 1028370161 , ATENÇÃO NA INSTALAÇÃO EXIGE ADAPTAÇÕES PARA TRABALHAR JUNTO COM A FECADURA DO ALFA ROMEO 2300",
+  "imagem": "fechadura001.webp"
 }
 ]
