@@ -264,5 +264,12 @@
   "aplicacao": "TARGA SPIDER",
   "descricao": "Tanque Combustível FORD RURAL",
   "imagem": "tanque002.webp"
+},
+  {
+  "codigo": "039",
+  "nome": "TANQUE COMBUSTÍVEL",
+  "aplicacao": "MIURAS SPORT",
+  "descricao": "Tanque Combustível KOMBI CLIPPER",
+  "imagem": "tanque003.webp"
 }
 ]
