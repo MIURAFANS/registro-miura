@@ -354,5 +354,12 @@
   "aplicacao": "MIURAS SPORT",
   "descricao": "Cinzeiro Traseiro  Opala Chevette Monza",
   "imagem": "cinzeiro001.webp"
+},
+  {
+  "codigo": "052",
+  "nome": "CINZEIRO",
+  "aplicacao": "MIURAS SPORT TARGA SPIDER",
+  "descricao": "Cinzeiro FORD CORCEL 2",
+  "imagem": "cinzeiro002.webp"
 }
 ]
