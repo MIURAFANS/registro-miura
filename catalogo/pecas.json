@@ -382,5 +382,12 @@
   "aplicacao": "TOPSPORT X11 ",
   "descricao": "Maçanetas Internas VW SANTANA",
   "imagem": "macaneta002.webp"
+},
+  {
+  "codigo": "056",
+  "nome": "AFOGADOR",
+  "aplicacao": "SAGA 787 X8 TOPSPORT",
+  "descricao": "CABO DO AFOGADOR SANTANA",
+  "imagem": "afogador001.webp"
 }
 ]
