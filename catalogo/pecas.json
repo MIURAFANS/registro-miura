@@ -423,5 +423,12 @@
   "aplicacao": "TARGA X8 TOPSPORT X11",
   "descricao": "CAJADO DO VIDRO DO OPALA",
   "imagem": "vidro002.webp"
+},
+  {
+  "codigo": "062",
+  "nome": "PIVÔ LIMPADOR PARABRISA",
+  "aplicacao": "SAGA 787 X8 TOPSPORT X11",
+  "descricao": "Pivô Limpador Parabrisa Mb 1113 2213 72/88",
+  "imagem": "parabrisa001.webp"
 }
 ]
