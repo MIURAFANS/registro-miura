@@ -403,5 +403,12 @@
   "aplicacao": "TODOS MIURAS",
   "descricao": "Limitador Porta CHEVETTE",
   "imagem": "batente001.webp"
+},
+  {
+  "codigo": "059",
+  "nome": "MOLA TAMPA FAROIS",
+  "aplicacao": "MIURA SPORT TARGA",
+  "descricao": "MOLA TAMPA FAROIS ERAM EXCLUSIVAS MIURA",
+  "imagem": "mola001.webp"
 }
 ]
