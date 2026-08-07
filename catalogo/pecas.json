@@ -375,5 +375,12 @@
   "aplicacao": "TARGA SPIDER SAGA 787 X8",
   "descricao": "Maçanetas Internas Brasília PORTAS , TETO TARGA",
   "imagem": "macaneta001.webp"
+},
+  {
+  "codigo": "055",
+  "nome": "MAÇANETA INTERNA",
+  "aplicacao": "TOPSPORT",
+  "descricao": "Maçanetas Internas VW SANTANA",
+  "imagem": "macaneta002.webp"
 }
 ]
