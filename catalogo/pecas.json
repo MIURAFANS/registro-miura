@@ -396,5 +396,12 @@
   "aplicacao": "SAGA 787 X8 TOPSPORT X11",
   "descricao": "Teto Solar Webasto Karmann Ghia OS TETOS ERAM FEITOS PELA MIURA E USAVAM OS COMPONENTES DA WEBASTO",
   "imagem": "teto001.webp"
+},
+  {
+  "codigo": "058",
+  "nome": "LIMITADOR PORTA",
+  "aplicacao": "TODOS MIURAS",
+  "descricao": "Limitador Porta CHEVETTE",
+  "imagem": "batente001.webp"
 }
 ]
