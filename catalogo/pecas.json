@@ -333,5 +333,12 @@
   "aplicacao": "SAGA 787 X8",
   "descricao": "BOTÃO MARGIRUS DE EPOCA MODELO PORSCHE (RARO)",
   "imagem": "botao004.webp"
+},
+  {
+  "codigo": "049",
+  "nome": "BOTÃO PAINEL VIDRO ELÉTRICO",
+  "aplicacao": "TOPSPORT X11",
+  "descricao": "BOTÃO MARGIRIUS",
+  "imagem": "botao004.webp"
 }
 ]
