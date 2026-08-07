@@ -389,5 +389,12 @@
   "aplicacao": "SAGA 787 X8 TOPSPORT",
   "descricao": "CABO DO AFOGADOR SANTANA",
   "imagem": "afogador001.webp"
+},
+  {
+  "codigo": "057",
+  "nome": "TETO SOLAR",
+  "aplicacao": "SAGA 787 X8 TOPSPORT X11",
+  "descricao": "Teto Solar Webasto Karmann Ghia OS TETOS ERAM FEITOS PELA MIURA E USAVAM OS COMPONENTES DA WEBASTO",
+  "imagem": "teto001.webp"
 }
 ]
