@@ -319,5 +319,12 @@
   "aplicacao": "MIURA SPORT",
   "descricao": "BOTÃO ESGHICHO E AJUSTE DE VOLANTE (RARO)",
   "imagem": "botao002.webp"
+},
+  {
+  "codigo": "047",
+  "nome": "BOTÃO PAINEL",
+  "aplicacao": "TARGA SPIDER SAGA 787 X8 TOPSPORT X11",
+  "descricao": "BOTÃO PAINEL LINHA FORD DEL REY",
+  "imagem": "botao003.webp"
 }
 ]
