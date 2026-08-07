@@ -368,5 +368,12 @@
   "aplicacao": "SAGA 787 X8 TOPSPORT X11",
   "descricao": "Cinzeiro VW SANTANA Código da peça: 321.857.961",
   "imagem": "cinzeiro003.webp"
+},
+  {
+  "codigo": "054",
+  "nome": "MAÇANETA INTERNA",
+  "aplicacao": "TARGA SPIDER SAGA 787 X8",
+  "descricao": "Maçanetas Internas Brasília PORTAS , TETO TARGA",
+  "imagem": "macaneta001.webp"
 }
 ]
