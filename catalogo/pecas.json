@@ -416,5 +416,12 @@
   "aplicacao": "TARGA SPIDER SAGA 787 X8 TOPSPOT X11",
   "descricao": "MAQUINA DE VIDRO MARCA FEGATTA FORNECEDOR DE VIDRO ELETRICO DA ÉPOCA , MAQUINA RARA PODE SER ADAPTADO O MOTOR MODERNO MABUSCHI",
   "imagem": "vidro001.webp"
+},
+  {
+  "codigo": "061",
+  "nome": "CAJADO VIDRO",
+  "aplicacao": "TARGA X8 TOPSPORT X11",
+  "descricao": "CAJADO DO VIDRO DO OPALA",
+  "imagem": "vidro002.webp"
 }
 ]
