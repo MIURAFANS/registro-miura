@@ -347,5 +347,12 @@
   "aplicacao": "SAGA 787 X8 TOPSPORT X11",
   "descricao": "BOTÃO DE ÉPOCA DE VIDRO ELÉTRICO (RARO) USADO PARA CONTROLAR OS BANCOS ELÉTRICOS E ABERTURA DE PORTAS DO PASSAGEIRO",
   "imagem": "botao006.webp"
+},
+  {
+  "codigo": "051",
+  "nome": "CINZEIRO",
+  "aplicacao": "MIURAS SPORT",
+  "descricao": "Cinzeiro Traseiro  Opala Chevette Monza",
+  "imagem": "cinzeiro001.webp"
 }
 ]
