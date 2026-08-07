@@ -340,5 +340,12 @@
   "aplicacao": "TOPSPORT X11",
   "descricao": "BOTÃO MARGIRIUS",
   "imagem": "botao005.webp"
+},
+  {
+  "codigo": "050",
+  "nome": "BOTÃO PAINEL",
+  "aplicacao": "SAGA 787 X8 TOPSPORT X11",
+  "descricao": "BOTÃO DE ÉPOCA DE VIDRO ELÉTRICO (RARO) USADO PARA CONTROLAR OS BANCOS ELÉTRICOS E ABERTURA DE PORTAS DO PASSAGEIRO",
+  "imagem": "botao006.webp"
 }
 ]
