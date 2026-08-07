@@ -306,5 +306,12 @@
   "aplicacao": "SAGA 787 X8",
   "descricao": "Comando Ar Condicionado Vw Passat Gts Pointer original Miura tinha o logo",
   "imagem": "ar001.webp"
+},
+  {
+  "codigo": "045",
+  "nome": "MOLDURA BOTÕES",
+  "aplicacao": "MIURA SPORT",
+  "descricao": "CONJUNTO DE BOTÕES E MOLDURA FIAT 147 EXCETO O BOTÃO DE ESGHUICHO DE ÁGUA",
+  "imagem": "botao001.webp"
 }
 ]
