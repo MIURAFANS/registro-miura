@@ -451,5 +451,12 @@
   "aplicacao": "MIURA SPORT 80 EM DIANTE",
   "descricao": "DOBRADIÇAS EXCULIVAS MIURA SPORT FORNECEDOR ATUAL FAJ EMBLEMAS",
   "imagem": "dobradica001.webp"
+},
+  {
+  "codigo": "066",
+  "nome": "DOBRADIÇA TRASEIRA",
+  "aplicacao": "TARGA SPIDER",
+  "descricao": "DOBRADIÇAS EXCULIVAS MIURA SPORT FORNECEDOR ATUAL FAJ EMBLEMAS",
+  "imagem": "dobradica002.webp"
 }
 ]
