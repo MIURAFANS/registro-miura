@@ -430,5 +430,12 @@
   "aplicacao": "SAGA 787 X8 TOPSPORT X11",
   "descricao": "Pivô Limpador Parabrisa Mb 1113 2213 72/88",
   "imagem": "parabrisa001.webp"
+},
+  {
+  "codigo": "063",
+  "nome": "BOTÃO VIDRO ELÉTRICO",
+  "aplicacao": "TARGA SPIDER",
+  "descricao": "CONJUNTO DE ACIONAMENTO DOS VIDROS ELETRICO FORNECEDOR DE ÉPOCA PEÇA RARA",
+  "imagem": "botao007.webp"
 }
 ]
