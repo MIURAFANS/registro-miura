@@ -444,5 +444,12 @@
   "aplicacao": "MIURAS SPORT  TARGA E SPIDER",
   "descricao": "PEÇAS RARAS PRODUZIDAS PELA MIURA PODIAM SER DE PLASTICO OU FIBRA, OS MOTORES ERAM DA MARCA ARNO DERIVADOS DOS FORD CORCEL",
   "imagem": "ar003.webp"
+},
+  {
+  "codigo": "065",
+  "nome": "DOBRADIÇA TRASEIRA",
+  "aplicacao": "MIURA SPORT 80 EM DIANTE",
+  "descricao": "DOBRADIÇAS EXCULIVAS MIURA SPORT FORNECEDOR ATUAL FAJ EMBLEMAS",
+  "imagem": "dobradica001.webp"
 }
 ]
