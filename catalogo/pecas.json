@@ -437,5 +437,12 @@
   "aplicacao": "TARGA SPIDER",
   "descricao": "CONJUNTO DE ACIONAMENTO DOS VIDROS ELÉTRICOS FORNECEDOR DE ÉPOCA PEÇA RARA",
   "imagem": "botao007.webp"
+},
+  {
+  "codigo": "064",
+  "nome": "VENTILADOR AR FORÇADO",
+  "aplicacao": "MIURAS SPORT  TARGA E SPIDER",
+  "descricao": "PEÇAS RARAS PRODUZIDAS PELA MIURA PODIAM SER DE PLASTICO OU FIBRA, OS MOTORES ERAM DA MARCA ARNO DERIVADOS DOS FORD CORCEL",
+  "imagem": "ar003.webp"
 }
 ]
