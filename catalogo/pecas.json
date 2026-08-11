@@ -479,5 +479,12 @@
   "aplicacao": "MIURA SPORT",
   "descricao": "LIMPADOR PARA-BRISAS MODELO SP2 HASTE PANTOGRAFICA",
   "imagem": "parabrisa002.webp"
+},
+  {
+  "codigo": "070",
+  "nome": "LIMPADOR PARA-BRISAS",
+  "aplicacao": "MIURA TARGA SPIDER",
+  "descricao": "LIMPADOR PARA-BRISAS MODELO SP2 PASSAGEIRO OS DOIS LADOS",
+  "imagem": "parabrisa003.webp"
 }
 ]
