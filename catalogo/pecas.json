@@ -465,5 +465,12 @@
   "aplicacao": "MIURA SAGA",
   "descricao": "COMANDO ESPELHO SUPOSTAMENTE GM PARA MAQUINA DO ESPELHO CHEVETTE PEÇA EXTREMAMENTE RARA PODENDO TER SIDO FABRICADA POR ALGUMA EMPRESA DE ACESSÓRIOS DE ÉPOCA",
   "imagem": "retrovisor009.webp"
+},
+  {
+  "codigo": "068",
+  "nome": "PUXADOR CAPÔ",
+  "aplicacao": "TARGA SPIDER SAGA 787 X8 TOPSPORT X11",
+  "descricao": "Cabo Capo Vw Gol",
+  "imagem": "puxador001.webp"
 }
 ]
