@@ -493,5 +493,12 @@
   "aplicacao": "SAGA 787 X8 TOPSPORT X11",
   "descricao": "Braço Limpador + Palheta Santana 84/97",
   "imagem": "parabrisa004.webp"
+},
+  {
+  "codigo": "072",
+  "nome": "SENSOR CHAVE",
+  "aplicacao": "TOPSPORT X11",
+  "descricao": "SENSOR DE CHAVE INTERNO EXCLUSIVO MIURA , SEM ESTE SENSOR FUNCIONADO EM PERFEITO ESTADO O COMPUTADOR DE BORDO NÃO FUNCIONA",
+  "imagem": "chave005.webp"
 }
 ]
