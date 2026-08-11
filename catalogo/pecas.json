@@ -472,5 +472,12 @@
   "aplicacao": "TARGA SPIDER SAGA 787 X8 TOPSPORT X11",
   "descricao": "Cabo Capo Vw Gol",
   "imagem": "puxador001.webp"
+},
+  {
+  "codigo": "069",
+  "nome": "LIMPADOR PARA-BRISAS",
+  "aplicacao": "MIURA SPORT",
+  "descricao": "LIMPADOR PARA-BRISAS MODELO SP2 HASTE PANTOGRAFICA",
+  "imagem": "parabrisa002.webp"
 }
 ]
