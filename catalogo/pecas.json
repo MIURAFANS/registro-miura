@@ -486,5 +486,12 @@
   "aplicacao": "MIURA TARGA SPIDER",
   "descricao": "LIMPADOR PARA-BRISAS MODELO SP2 PASSAGEIRO OS DOIS LADOS",
   "imagem": "parabrisa003.webp"
+},
+  {
+  "codigo": "071",
+  "nome": "LIMPADOR PARA-BRISAS",
+  "aplicacao": "SAGA 787 X8 TOPSPORT X11",
+  "descricao": "Braço Limpador + Palheta Santana 84/97",
+  "imagem": "parabrisa004.webp"
 }
 ]
