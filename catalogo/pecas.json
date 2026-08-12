@@ -507,5 +507,12 @@
   "aplicacao": "X8 TOPSPORT X11",
   "descricao": "Cabo Velocímetro Santana Ano 85 A 89 ATENÇÃO !!! A PONTA ROSQUEADA QUE VAI AO VELOCÍMETRO DEVE SER TROCADA PELO DO CABO ORIGINAL QUE ENCAIXA NO PAINEL ERA USADO DO ALFA ROMEO 2300",
   "imagem": "cabo001.webp"
+},
+  {
+  "codigo": "074",
+  "nome": "CABO VELOCÍMETRO",
+  "aplicacao": "TARGA SPIDER SAGA 787",
+  "descricao": "Cabo Do Velocimetro Pampa Del Rey  Ap 1.6 E 1.8 ATENÇÃO MOTOR AP !!!",
+  "imagem": "cabo002.webp"
 }
 ]
