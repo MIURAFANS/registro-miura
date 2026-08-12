@@ -514,5 +514,12 @@
   "aplicacao": "TARGA SPIDER SAGA 787",
   "descricao": "Cabo Do Velocimetro Pampa Del Rey  Ap 1.6 E 1.8 ATENÇÃO MOTOR AP !!!",
   "imagem": "cabo002.webp"
+},
+  {
+  "codigo": "075",
+  "nome": "MOLA TAMPAS FAROL",
+  "aplicacao": "MIURAS 82 83 TARGA SPIDER SAGA 1 787",
+  "descricao": "Mola Aérea Automática Porta Leve Até 25 Kg",
+  "imagem": "tampa001.webp"
 }
 ]
