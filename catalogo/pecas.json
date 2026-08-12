@@ -556,5 +556,12 @@
   "aplicacao": "MIURA 80 A 81",
   "descricao": "PEÇA FABRICADA PELA MIURA PARA PROTEÇÃO DOS FAROIS DE MILHA",
   "imagem": "grade002.webp"
+},
+  {
+  "codigo": "081",
+  "nome": "BOIA BOMBA GASOLINA INJETADOS",
+  "aplicacao": "SAGA 2 TOPSPORT X11 (INJETADOS)",
+  "descricao": "CONJUNTO DO GOL GTI SANTANA EXECUTIVO EXTREMAMENTE RARO (RESISTENCIA ORIGINAL MIURA PARA CASAR COM MOSTRADOR DE COMBUSTÍVEL)",
+  "imagem": "boia001.webp"
 }
 ]
