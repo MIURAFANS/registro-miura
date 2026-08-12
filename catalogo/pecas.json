@@ -528,5 +528,12 @@
   "aplicacao": "MIURAS",
   "descricao": "Junta Universal Trambulador Cambio 002163 Mb COM MOTOR TRASEIRO",
   "imagem": "junta001.webp"
+},
+  {
+  "codigo": "077",
+  "nome": "RADIADOR ÓLEO",
+  "aplicacao": "MIURAS MTS",
+  "descricao": "PEÇA EXCLUSIVA MIURA , USAVA O PROPRIO AR GERADO PELA VENTOINHA DO ALTERNADOR PARA REFRIGERAR O RADIADOR DE OLEO , ERA USADO O RADIADOR DA VARIANTE 2",
+  "imagem": "radiador001.webp"
 }
 ]
