@@ -535,5 +535,12 @@
   "aplicacao": "MIURAS MTS",
   "descricao": "PEÇA EXCLUSIVA MIURA , USAVA O PROPRIO AR GERADO PELA VENTOINHA DO ALTERNADOR PARA REFRIGERAR O RADIADOR DE OLEO , ERA USADO O RADIADOR DA VARIANTE 2",
   "imagem": "radiador001.webp"
+},
+  {
+  "codigo": "078",
+  "nome": "MUFLA CARBURADOR",
+  "aplicacao": "TARGA SPIDER SAGA 787",
+  "descricao": "PEÇA FABRICADA PELA MIURA PRA ENCAIXAR A CAIXA DE FILTRO DE AR NO CARBURADOR",
+  "imagem": "mufla001.webp"
 }
 ]
