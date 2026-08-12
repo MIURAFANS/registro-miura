@@ -521,5 +521,12 @@
   "aplicacao": "MIURAS 82 83 TARGA SPIDER SAGA 1 787",
   "descricao": "Mola Aérea Automática Porta Leve Até 25 Kg",
   "imagem": "tampa001.webp"
+},
+  {
+  "codigo": "076",
+  "nome": "JUNTA COLUNA DIREÇÃO",
+  "aplicacao": "MIURAS",
+  "descricao": "Junta Universal Trambulador Cambio 002163 Mb COM MOTOR TRASEIRO",
+  "imagem": "junta001.webp"
 }
 ]
