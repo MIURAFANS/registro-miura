@@ -542,5 +542,12 @@
   "aplicacao": "TARGA SPIDER SAGA 787",
   "descricao": "PEÇA FABRICADA PELA MIURA PRA ENCAIXAR A CAIXA DE FILTRO DE AR NO CARBURADOR",
   "imagem": "mufla001.webp"
+},
+  {
+  "codigo": "079",
+  "nome": "GRADE FAROL DE MILHA",
+  "aplicacao": "MIURA 77 A 79 (VIDRO CURVO)",
+  "descricao": "PEÇA FABRICADA PELA MIURA PARA PROTEÇÃO DOS FAROIS DE MILHA",
+  "imagem": "grade001.webp"
 }
 ]
