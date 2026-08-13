@@ -598,5 +598,11 @@
   "aplicacao": "MIURAS SPORT, SAGA 787",
   "descricao": "DIFUSOR DE AR PASSAT",
   "imagem": "ar006.webp"
+},{
+  "codigo": "087",
+  "nome": "DIFUSOR DE AR",
+  "aplicacao": "TARGA SPIDER X8 TOPSPORT X11",
+  "descricao": "DIFUSOR DE AR CENTRAL VOYAGE",
+  "imagem": "ar007.webp"
 }
 ]
