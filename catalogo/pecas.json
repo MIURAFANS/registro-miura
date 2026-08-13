@@ -570,5 +570,12 @@
   "aplicacao": "SAGA 787 X8 TOPSPORT CARBURADOS",
   "descricao": "Boia Combustível Sem Retorno Santana 84 85 86 87 ATENÇÃO !! A RESISTENCIA DA BOIA ERA MODIFICADA PELA MIURA PARA MARCAR CORRETAMENTE NO PAINEL, CASO NÃO TENHA A ORIGINAL PARA SUBSTITUIR SERÁ NECESSÁRIO USAR CONVERSOR.",
   "imagem": "boia002.webp"
+},
+  {
+  "codigo": "083",
+  "nome": "BOIA GASOLINA",
+  "aplicacao": "MIURAS SPORT",
+  "descricao": "Boia Tanque Combustível Kombi CLIPPER 1967 68 69 70 A 1981 43 Litros ATENÇÃO !!! SE MARCAR INVERTIDO NO MOSTRADOR , CORRIGIR (DOBRANDO A HASTE) O ANGULO DA HASTE PARA O SENTIDO OPOSTO",
+  "imagem": "boia003.webp"
 }
 ]
