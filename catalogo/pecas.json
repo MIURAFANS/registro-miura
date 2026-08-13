@@ -591,5 +591,12 @@
   "aplicacao": "MIURAS SPORT",
   "descricao": "Grade Saída Ar Porta Passat",
   "imagem": "ar005.webp"
+},
+  {
+  "codigo": "086",
+  "nome": "DIFUSOR DE AR",
+  "aplicacao": "MIURAS SPORT, SAGA 787",
+  "descricao": "DIFUSOR DE AR PASSAT",
+  "imagem": "ar006.webp"
 }
 ]
