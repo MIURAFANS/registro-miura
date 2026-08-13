@@ -625,5 +625,12 @@
   "aplicacao": "TOPSPORT X11",
   "descricao": "Manopla palanca Cambio Speedostat piloto automático capaz de manter a velocidade constante nos veículos sem que o motorista precisasse ficar pisando no acelerador",
   "imagem": "manopla003.webp"
+},
+  {
+  "codigo": "091",
+  "nome": "DIFUSOR AR PARA-BRISAS",
+  "aplicacao": "MIURAS SPORT",
+  "descricao": "Dutos Ar Chevette Chevy Marajo Difusor",
+  "imagem": "ar008.webp"
 }
 ]
