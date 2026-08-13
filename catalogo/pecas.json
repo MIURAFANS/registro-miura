@@ -577,5 +577,12 @@
   "aplicacao": "MIURAS SPORT",
   "descricao": "Boia Tanque Combustível Kombi CLIPPER 1967 68 69 70 A 1981 43 Litros ATENÇÃO !!! SE MARCAR INVERTIDO NO MOSTRADOR , CORRIGIR (DOBRANDO A HASTE) O ANGULO DA HASTE PARA O SENTIDO OPOSTO",
   "imagem": "boia003.webp"
+},
+  {
+  "codigo": "084",
+  "nome": "COMANDO AR CONDICIONADO",
+  "aplicacao": "TOPSPORT X11",
+  "descricao": "Comando Do Ar Condicionado Gol Gti",
+  "imagem": "ar004.webp"
 }
 ]
