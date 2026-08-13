@@ -1,1 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<title>FOLDERS - Miura Fans</title>
+
+<style>
+    body {
+        margin: 0;
+        padding: 20px;
+        background: white;
+        font-family: Arial, sans-serif;
+        text-align: center;
+    }
+
+    h1 {
+        margin-bottom: 25px;
+        font-size: 28px;
+    }
+
+    #galeria {
+        max-width: 1000px;
+        margin: auto;
+    }
+
+    #galeria img {
+        display: block;
+        width: 100%;
+        height: auto;
+        margin: 0 auto 20px auto;
+    }
+
+    .erro {
+        color: #777;
+        font-size: 18px;
+        padding: 30px;
+    }
+</style>
+</head>
+
+<body>
+
+<h1>FOLDERS</h1>
+
+<div id="galeria">
+    <div class="erro">Carregando imagens...</div>
+</div>
+
+<script>
+
+const usuario = "MIURAFANS";
+const repositorio = "registro-miura";
+const pasta = "folders";
+
+const galeria = document.getElementById("galeria");
+
+fetch(`https://api.github.com/repos/${usuario}/${repositorio}/contents/${pasta}`)
+.then(response => response.json())
+.then(arquivos => {
+
+    galeria.innerHTML = "";
+
+    arquivos
+        .filter(arquivo => /\.(jpg|jpeg|png|webp|gif)$/i.test(arquivo.name))
+        .forEach(arquivo => {
+
+            const imagem = document.createElement("img");
+
+            imagem.src = arquivo.download_url;
+            imagem.alt = arquivo.name;
+
+            galeria.appendChild(imagem);
+        });
+
+})
+.catch(erro => {
+
+    galeria.innerHTML =
+        '<div class="erro">Não foi possível carregar as imagens.</div>';
+
+});
+
+</script>
+
+</body>
+</html>
