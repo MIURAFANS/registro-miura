@@ -619,4 +619,11 @@
   "descricao": "Manopla (palanca) Cambio Santana",
   "imagem": "manopla002.webp"
 },
+  {
+  "codigo": "090",
+  "nome": "MANOPLA CAMBIO",
+  "aplicacao": "TOPSPORT X11",
+  "descricao": "Manopla palanca Cambio Speedostat piloto automático capaz de manter a velocidade constante nos veículos sem que o motorista precisasse ficar pisando no acelerador",
+  "imagem": "manopla003.webp"
+}
 ]
