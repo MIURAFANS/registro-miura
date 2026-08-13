@@ -604,5 +604,12 @@
   "aplicacao": "TARGA SPIDER X8 TOPSPORT X11",
   "descricao": "DIFUSOR DE AR CENTRAL GOL VOYAGE 80 a 87",
   "imagem": "ar007.webp"
+},
+  {
+  "codigo": "088",
+  "nome": "MANOPLA CAMBIO",
+  "aplicacao": "MIURAS SPORT TARGA SPIDER",
+  "descricao": "Manopla (palanca) Cambio Passat 83 a 89",
+  "imagem": "manopla001.webp"
 }
 ]
