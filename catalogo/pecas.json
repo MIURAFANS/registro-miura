@@ -619,16 +619,4 @@
   "descricao": "Manopla (palanca) Cambio Santana",
   "imagem": "manopla002.webp"
 },
-  {
-  "codigo": "090",
-  "nome": "MANOPLA CAMBIO PILOTO AUTOMÁTICO",
-  "aplicacao": "TOPSPORT X11",
-  "descricao": "Manopla (palanca) Cambio Speedostat Em outubro de 1986, durante o Salão do
-Automóvel, a Albarus lançou o Speedostat,
-uma espécie de piloto automático capaz de
-manter a velocidade constante nos veículos
-sem que o motorista precisasse ficar pisando
-no acelerador",
-  "imagem": "manopla003.webp"
-}
 ]
