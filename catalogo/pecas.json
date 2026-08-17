@@ -653,5 +653,12 @@
   "aplicacao": "MIURA SAGA",
   "descricao": "SISTEMA DE ABERTURA DE PORTAS POR TECLAS ITEM EXTREMAMENTE RARO SAIU EM POUCAS UNIDAES",
   "imagem": "botao008.webp"
+},
+  {
+  "codigo": "095",
+  "nome": "NEON",
+  "aplicacao": "787 X8 TPOSPORT X11",
+  "descricao": "CONJUNTO ACRILICO LAMPADA E REATOR TODOS EXCLUSIVOS MIURA",
+  "imagem": "farol004.webp"
 }
 ]
