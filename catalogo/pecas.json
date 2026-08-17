@@ -646,5 +646,12 @@
   "aplicacao": "MIURAS COM FREIO A DISCO TRASEIRO",
   "descricao": "PEÇA EXCLUSIVA MIURA ERA FEITA PELA VARGA, NÃO EXISTE NO MERCADO DE REPOSIÇÃO.",
   "imagem": "freio001.webp"
+},
+  {
+  "codigo": "094",
+  "nome": "TECLADO ETERNO",
+  "aplicacao": "MIURA SAGA",
+  "descricao": "SISTEMA DE ABERTURA DE PORTAS POR TECLAS ITEM EXTREMAMENTE RARO SAIU EM POUCAS UNIDAES",
+  "imagem": "botao008.webp"
 }
 ]
