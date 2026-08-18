@@ -660,5 +660,12 @@
   "aplicacao": "787 X8 TPOSPORT X11",
   "descricao": "CONJUNTO ACRILICO LAMPADA E REATOR TODOS EXCLUSIVOS MIURA",
   "imagem": "farol004.webp"
+},
+  {
+  "codigo": "096",
+  "nome": "PISCA SEQUENCIAL",
+  "aplicacao": "TOPSPORT X11",
+  "descricao": "PEÇA EXCLUSIVA MIURA",
+  "imagem": "farol006.webp"
 }
 ]
