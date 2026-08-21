@@ -681,5 +681,12 @@
   "aplicacao": "TARGA * , X8, TOPSPORT, X11",
   "descricao": "BORRACHAS TETO ERAM EXCLUSIVAS MIURA PARA TARGA ERAM FEITAS MENORES POREM DA PARA ADAPTAR O MODELO DO X8",
   "imagem": "borracha001.webp"
+},
+  {
+  "codigo": "099",
+  "nome": "BORRACHAS VIGIA LATERAL",
+  "aplicacao": "MIURAS SPORT",
+  "descricao": "Borracha Vidro Lateral Janela Fixa Chevette , DEVE SER FEITO OS CORTES NOS ANGULOS",
+  "imagem": "borracha002.webp"
 }
 ]
