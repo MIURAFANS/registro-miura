@@ -688,5 +688,12 @@
   "aplicacao": "MIURAS SPORT",
   "descricao": "Borracha Vidro Lateral Janela Fixa Chevette , DEVE SER FEITO OS CORTES NOS ANGULOS",
   "imagem": "borracha002.webp"
+},
+  {
+  "codigo": "100",
+  "nome": "PESTANA PORTAS",
+  "aplicacao": "TODOS MIURAS",
+  "descricao": "Pestanas das portas Ford Maverick 2 Portas",
+  "imagem": "borracha003.webp"
 }
 ]
