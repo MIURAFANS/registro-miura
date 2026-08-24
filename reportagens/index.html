@@ -1,106 +1,141 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
+
 <meta charset="UTF-8">
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Reportagens Miura Fans</title>
 
 <style>
-    body {
-        margin: 0;
-        background: #050505;
-        color: #ffffff;
-        font-family: Arial, sans-serif;
-    }
 
-    header {
-        text-align: center;
-        padding: 35px 20px 20px;
-    }
+body {
+    margin: 0;
+    background: #050505;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    padding: 35px 20px 20px;
+}
+
+h1 {
+    margin: 0;
+    color: #d4af37;
+    font-size: 32px;
+    letter-spacing: 1px;
+}
+
+.subtitulo {
+    margin-top: 10px;
+    color: #aaa;
+    font-size: 16px;
+}
+
+.lista {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+.reportagem {
+    display: block;
+    background: #151515;
+    border: 1px solid #333;
+    border-left: 4px solid #d4af37;
+    margin-bottom: 15px;
+    padding: 20px;
+    border-radius: 8px;
+    color: white;
+    text-decoration: none;
+    transition: 0.2s;
+}
+
+.reportagem:hover {
+    background: #222;
+    border-left-color: #ffcc33;
+    transform: translateX(4px);
+}
+
+.titulo {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.clique {
+    margin-top: 8px;
+    color: #aaa;
+    font-size: 14px;
+}
+
+@media (max-width: 600px) {
 
     h1 {
-        margin: 0;
-        color: #d4af37;
-        font-size: 32px;
-        letter-spacing: 1px;
-    }
-
-    .subtitulo {
-        margin-top: 10px;
-        color: #aaa;
-        font-size: 16px;
-    }
-
-    .lista {
-        max-width: 800px;
-        margin: 30px auto;
-        padding: 0 20px;
-    }
-
-    .reportagem {
-        display: block;
-        background: #151515;
-        border: 1px solid #333;
-        border-left: 4px solid #d4af37;
-        margin-bottom: 15px;
-        padding: 20px;
-        border-radius: 8px;
-        color: white;
-        text-decoration: none;
-        transition: 0.2s;
-    }
-
-    .reportagem:hover {
-        background: #222;
-        border-left-color: #ffcc33;
-        transform: translateX(4px);
+        font-size: 26px;
     }
 
     .titulo {
-        font-size: 20px;
-        font-weight: bold;
+        font-size: 18px;
     }
 
-    .clique {
-        margin-top: 8px;
-        color: #aaa;
-        font-size: 14px;
-    }
+}
 
-    @media (max-width: 600px) {
-        h1 {
-            font-size: 26px;
-        }
-
-        .titulo {
-            font-size: 18px;
-        }
-    }
 </style>
+
 </head>
 
 <body>
 
 <header>
-    <h1>REPORTAGENS MIURA</h1>
-    <div class="subtitulo">
-        Revistas e reportagens históricas sobre o Miura
-    </div>
+
+<h1>REPORTAGENS MIURA</h1>
+
+<div class="subtitulo">
+Revistas e reportagens históricas sobre o Miura
+</div>
+
 </header>
+
 
 <div class="lista">
 
-    <a class="reportagem" href="reportagem-01.html">
-        <div class="titulo">
-            Miura — A história do esportivo brasileiro
-        </div>
-        <div class="clique">
-            Clique para ler a reportagem
-        </div>
-    </a>
+
+<!-- REPORTAGEM 01 -->
+
+<a class="reportagem" href="reportagem-01.html">
+
+    <div class="titulo">
+        Spider 1984
+    </div>
+
+    <div class="clique">
+        Clique para ler a reportagem
+    </div>
+
+</a>
+
+
+<!-- REPORTAGEM 02 -->
+
+<a class="reportagem" href="reportagem-02.html">
+
+    <div class="titulo">
+        Miura 77
+    </div>
+
+    <div class="clique">
+        Clique para ler a reportagem
+    </div>
+
+</a>
+
 
 </div>
 
 </body>
+
 </html>
