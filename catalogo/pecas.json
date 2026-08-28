@@ -723,5 +723,12 @@
   "aplicacao": "TARGA, SPIDER , SAGA ,X8, TOPSPORT,X11",
   "descricao": "Borracha Guarnição Porta Malas Chevette",
   "imagem": "borracha007.webp"
+},
+  {
+  "codigo": "105",
+  "nome": "BORRACHA CAPÔ",
+  "aplicacao": "TARGA SPIDER SAGA 787 X8 TOPSPORT X11",
+  "descricao": "Jogo Borracha Guarda PÓ Motor Fusca",
+  "imagem": "borracha007.webp"
 }
 ]
