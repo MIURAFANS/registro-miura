@@ -730,5 +730,12 @@
   "aplicacao": "TARGA SPIDER SAGA 787 X8 TOPSPORT X11",
   "descricao": "Jogo Borracha Guarda PÓ Motor Fusca",
   "imagem": "borracha008.webp"
+},
+  {
+  "codigo": "106",
+  "nome": "LENTES X8",
+  "aplicacao": "X8",
+  "descricao": "CONJUNTO DE LENTES DIANTEIRAS , ACRILICO NEON TRASIRO, PLACA REFLETIVA CENTRAL, LANTERNAS TRASEIRAS (GOL MODIFICADAS) PEÇAS EXCLUSIVAS IMAGEM PARA REFERÊNCIA",
+  "imagem": "lanterna007.webp"
 }
 ]
